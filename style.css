@@ -1,0 +1,30 @@
+.bodyEstilo {
+    width: 1250px;
+}
+
+.div1-estilo {
+    background-color: #252525;
+    width: 250px;
+    height: 250px;
+}
+
+.div2-estilo {
+    background-color: #4400ff;
+    height: 550px;
+    width: 550px;
+}
+
+.p1-estilo {
+    color: rgb(0, 119, 255);
+    font-size: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(208, 245, 0);
+}
+
+.div3-estilo{
+width:200; height: 70vh; background-color: rgb(21, 59, 16);
+}
+.div4-estilo{
+width: 75vw; height: 370px; background-color: rgb(255, 174, 0);
+}
